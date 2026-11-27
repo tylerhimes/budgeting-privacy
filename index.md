@@ -1,5 +1,5 @@
 # Budgeting Privacy Policy
-Last updated: November 25, 2026
+Last updated: November 27, 2026
 
 Budgeting ("the app") is developed by Tyler Himes, an independent developer based in Utah, United States ("I", "we", "us"). This policy explains what information the app collects, why, and the choices you have.
 
@@ -34,9 +34,11 @@ Analytics events are tied to a random identifier the app generates for this devi
 
 Budgeting Pro subscriptions are processed by Apple through the App Store. We use [RevenueCat](https://www.revenuecat.com/privacy/) to manage subscriptions. RevenueCat receives an anonymous app user ID, your purchase and subscription history, and basic device information (such as device model, OS version, country and IP address). We share the hashed analytics identifier with RevenueCat so subscription and usage reports can be combined. We never receive your payment details.
 
-### Feature requests (WishKit)
+### Feature requests (Kickstart Signal)
 
-If you submit or vote on feature requests, we use [WishKit](https://www.wishkit.io/privacy) to store your requests, votes and comments, along with an anonymous identifier. **Feature requests can be seen by other users of the app**, so please don't include personal information in them.
+The Feature Requests board in Settings uses [Kickstart Signal](https://signal.kickstart.tools/privacy). Browsing the board doesn't create an identifier for you. If you submit a request, comment or vote, Signal receives what you wrote and a random installation ID that the app creates on your device at that point. The ID isn't derived from you, your Apple Account or your device, and is only used so your vote counts once and can be undone. Signal also receives whether you have Budgeting Pro, so we can see which requests matter to subscribers. When needed, it may also receive a temporary Apple-signed proof that the app is a genuine install.
+
+New requests stay private until we review and publish them. **Once published, requests and comments can be seen by other users of the app**, so please don't include personal information in them. Signal doesn't use feedback for tracking, advertising or marketing.
 
 ### In-app promotion (Kickstart Exchange)
 
@@ -46,6 +48,7 @@ On the free tier, Budgeting shows a banner promoting other apps through [Kicksta
 
 - To provide the app's features, including subscriptions.
 - To understand how the app is used, find bugs, and improve it.
+- To decide which features to build next, based on feature requests.
 - To respond to you when you contact us.
 
 We don't use your information for targeted advertising, we don't sell or rent it, and we don't track you across other companies' apps or websites.
@@ -60,18 +63,19 @@ We share information only:
 
 ## Retention
 
-Your budget data stays on your device and in your iCloud account until you delete it. Analytics, subscription and feedback data is kept by each provider according to its own retention policy and only as long as needed for the purposes above or as the law requires.
+Your budget data stays on your device and in your iCloud account until you delete it. Feature requests, comments and votes are kept on the Signal board until we remove them. Analytics and subscription data is kept by each provider according to its own retention policy and only as long as needed for the purposes above or as the law requires.
 
 ## Deleting your data
 
 - **In the app:** delete any budget, expense, savings fund or photo.
 - **From iCloud:** open the Settings app, tap your name at the top, then go to iCloud → Manage Storage (or Storage) → Budgeting and delete its data.
 - **From your device:** deleting the app removes its local data.
-- **Analytics, subscription or feedback data:** email us with the user ID shown in Budgeting's Settings, and we'll ask our providers to delete the data tied to it. Apple keeps its own purchase records, which you can manage through Apple.
+- **Feature requests and comments:** email us with the text of the request or comment you'd like removed, and we'll delete it from the board.
+- **Analytics or subscription data:** email us with the user ID shown in Budgeting's Settings, and we'll ask our providers to delete the data tied to it. Apple keeps its own purchase records, which you can manage through Apple.
 
 ## Your rights
 
-Depending on where you live (for example, in the EU, the UK or California), you may have the right to access, correct, delete or export your personal information, or to object to or limit how it's processed. Because we don't have accounts and don't know who you are, we'll usually need the user ID shown in Settings to find any data about you. To make a request, email us. You can also complain to your local data-protection authority.
+Depending on where you live (for example, in the EU, the UK or California), you may have the right to access, correct, delete or export your personal information, or to object to or limit how it's processed. Because we don't have accounts and don't know who you are, we'll usually need the user ID shown in Settings, or the text of your feedback, to find any data about you. To make a request, email us. You can also complain to your local data-protection authority.
 
 ## Children
 
